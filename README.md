@@ -1,7 +1,7 @@
-1. Set Up the Local Development Environment
+1. Set Up the Local Development Environment:
 Install and configure GitHub, Visual Studio Code, and Docker Hub.
 Generate SSH key pairs and add the public key to GitHub for secure access.
-2. Build AWS Infrastructure
+2. Build AWS Infrastructure:
 Create a Three-Tier VPC to ensure secure networking.
 Set up a NAT Gateway to allow private instances to access the internet.
 Configure Security Groups to manage inbound and outbound traffic.
