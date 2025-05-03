@@ -67,5 +67,5 @@ A **three-tier architecture** was implemented with:
 ## Conclusion
 This project successfully demonstrates deploying a **containerized dynamic web application** on AWS using **Docker, ECR, and ECS**. The setup ensures **scalability, security, and high availability** by leveraging AWS services efficiently.
 
-Feel free to clone the repository and explore the deployment process further. 🚀
+
 
